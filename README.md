@@ -6,7 +6,7 @@
       <img src="https://github.com/kgalejandrino/kgalejandrino/blob/main/images/linkedin_logo.png" alt="LinkedIn">
     </a>
     &emsp;
-    <a href="http://kgalejandrino@gmail.com/">
+    <a href="kgalejandrino@gmail.com">
       <img src="https://github.com/kgalejandrino/kgalejandrino/blob/main/images/gmail_logo.png" alt="Google Mail">
     </a>
     &emsp;
