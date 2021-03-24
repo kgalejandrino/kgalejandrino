@@ -2,16 +2,16 @@
 
 <div align="center">
   <h3>
-    <a href="">
-      <img src="" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/kevin-alejandrino/">
+      <img src="https://github.com/kgalejandrino/kgalejandrino/blob/main/images/linkedin_logo.png" alt="LinkedIn">
     </a>
     <span> | </span>
-    <a href="">
-      <img src="" alt="Google Mail">
+    <a href="http://kgalejandrino@gmail.com/">
+      <img src="https://github.com/kgalejandrino/kgalejandrino/blob/main/images/gmail_logo.png" alt="Google Mail">
     </a>
     <span> | </span>
-    <a href="">
-      <img src="" alt="Steam">
+    <a href="https://steamcommunity.com/profiles/76561198084969471/">
+      <img src="https://github.com/kgalejandrino/kgalejandrino/blob/main/images/steam_logo.png" alt="Steam">
     </a>
   </h3>
 </div>
