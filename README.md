@@ -35,7 +35,7 @@ on the side. Now,
 
 🖥️ Tools/Languages: GitHub / VS Code / HTML / CSS / Sass / JS / React  
 
-⏲️ My long-term goal is to become a full-stack developer and to learn more about new web technologies. But right now, my focus is to improve my front-end 
-development skills and be able to provide the most efficient code there is. 
+⏲️ My long-term goal is to become a full-stack developer and to learn more about new web technologies. But right now, my focus is to  
+&nbsp;&nbsp;&emsp;improve my front-end development skills and be able to provide the most efficient code there is. 
 
 🎮 In my leisure time, I enjoy playing video games, hiking (if invited by someone) and working out. Want to explore skiing/surfing.  
