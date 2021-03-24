@@ -3,15 +3,15 @@
 <div align="center">
   <h3>
     <a href="">
-      LinkedIn
+      <img src="https://github.com/kgalejandrino/kgalejandrino/blob/main/images/linkedin_logo.png" alt="LinkedIn">
     </a>
     <span> | </span>
     <a href="">
-      Steam
+      <img src="https://github.com/kgalejandrino/kgalejandrino/blob/main/images/gmail_logo.png" alt="Google Mail">
     </a>
     <span> | </span>
     <a href="">
-      Email
+      <img src="https://github.com/kgalejandrino/kgalejandrino/blob/main/images/steam_logo.png" alt="Steam">
     </a>
   </h3>
 </div>
