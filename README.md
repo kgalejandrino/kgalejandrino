@@ -30,8 +30,8 @@ on the side. Now,
 
 🛠️ I'm currently learning [The Complete JavaScript Course 2021](https://www.udemy.com/course/the-complete-javascript-course/) in Udemy. 
 
-💞️ If we have the same interest and goals, please don't hesistate to reach me and we can collaborate on some interesting projects and learn
-&nbsp;&nbsp;&emsp;from each other.
+💞️ If we have the same interest and goals, please don't hesistate to reach me and we can collaborate on some interesting projects and  
+&nbsp;&nbsp;&emsp;learn from each other.
 
 🖥️ Tools/Languages: GitHub / VS Code / HTML / CSS / Sass / JS / React  
 
