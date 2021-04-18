@@ -22,7 +22,7 @@ Let me tell you a quick summary about my background.
 
 I'm Kevin Alejandrino and I'm a Front-End Developer based in California. I graduated with a Computer Science degree in Fall 2019 at California State University, Sacramento. 
 
-While studying, I really never had a clear goal on what I wanted to do after college. And it's more of exploring the field of Computer Science which I've never regret because I  learned a lot of things along the way. I started my developer journey in my last year of college when we were doing our senior project. I only knew HTML and CSS back then, but I fell inlove with the whole development process. I took a break for a year after graduation. Now, I'm back motivated and decided to learn from the basics of it following the [freeCodeCamp](https://www.freecodecamp.org/) curriculum. Over the past few weeks, I've been learning HTML, CSS, JavaScript and React, working with small projects on the side.   
+While studying, I really never had a clear goal on what I wanted to do after college. And it's more of exploring the field of Computer Science which I've never regret because I  learned a lot of things along the way. I started my developer journey in my last year of college when we were doing our senior project. I only knew HTML and CSS back then, but I fell inlove with the whole development process. I took a break for about a year after graduation. Now, I'm back motivated and decided to learn from the basics of it following the [freeCodeCamp](https://www.freecodecamp.org/) curriculum. Over the past few weeks, I've been learning HTML, CSS, JavaScript and React, working with small projects on the side.   
 
 🌱 I’m currently working with [devChallenges](https://devchallenges.io/) projects to improve my basic skills on HTML, CSS and JavaScript. 
 
@@ -36,4 +36,4 @@ While studying, I really never had a clear goal on what I wanted to do after col
 ⏲️ My long-term goal is to become a full-stack developer and to learn more about new web technologies. But right now, my focus is to  
 &nbsp;&nbsp;&emsp;improve my front-end development skills and be able to provide the most efficient code there is. 
 
-🎮 In my leisure time, I enjoy playing video games, hiking (if invited by someone) and working out. Want to explore skiing/surfing.  
+🎮 In my leisure time, I enjoy playing video games, working out & learning about investing in stocks. Want to explore skiing/surfing.  
