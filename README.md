@@ -22,11 +22,11 @@ Let me tell you a quick summary about my background.
 
 I'm Kevin Alejandrino and I'm a Front-End Developer based in California. I graduated with a Computer Science degree in Fall 2019 at California State University, Sacramento. 
 
-While studying, I really never had a clear goal on what I wanted to do after college. And it's not that Computer Science didn't interest me but it's actually the opposite of it. I got too excited and explore different areas of Computer Science to game design, forensics and databases. However, when I was doing my senior project in my last year of college I fell inlove with the whole development process and that's when I started my developer journey. I took a break for about a year after graduation and now that I'm back, I decided to learn the basics of web development again. I started with the [freeCodeCamp](https://www.freecodecamp.org/) curriculum and over the past few weeks, I've been learning HTML, CSS, JavaScript and React working with small projects on the side.   
+While studying, I really never had a clear goal on what I wanted to do after college. I explored different areas of Computer Science like game design, forensics and databases classes. However, when I was doing my senior project I fell inlove with the whole development process and that's when I started my developer journey. I took a break for about a year after graduation and beginning of 2021 I decided to learn the basics of web development again. I started with the [freeCodeCamp](https://www.freecodecamp.org/) curriculum and over the past few weeks, I've been learning HTML, CSS, JavaScript and React working with small projects on the side.   
 
-🌱 I’m currently working with [devChallenges](https://devchallenges.io/) projects to improve my basic skills on HTML, CSS and JavaScript. 
+🌱 I'm currently attending the [Bay Valley Tech](https://www.bayvalleytech.com/about) coding program and learn more about web development and explore Angular, TypeScript and NodeJs.
 
-🛠️ I'm currently learning [The Complete JavaScript Course 2021](https://www.udemy.com/course/the-complete-javascript-course/) in Udemy. 
+🛠️ I'm also reviewing [React - The complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) in Udemy by Maximilian Schwarzmuller. 
 
 💞️ If we have the same interest and goals, please don't hesistate to reach me and we can collaborate on some interesting projects and  
 &nbsp;&nbsp;&emsp;learn from each other.
