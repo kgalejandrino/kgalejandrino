@@ -18,22 +18,10 @@
 
 <h1 align="center">About Me</h1>
 
-Let me tell you a quick summary about my background.  
+I'm Kevin Alejandrino and I'm currently working as an Automation Engineer at Meta for the Portal Automation team. 
 
-I'm Kevin Alejandrino and I'm a Front-End Developer based in California. I graduated with a Computer Science degree in Fall 2019 at California State University, Sacramento. 
+⏲️ On my free time, I'm learning [React - The complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) in Udemy by Maximilian Schwarzmuller. 
 
-My web development journey started when I was doing my senior project. I find the whole development process challenging and rewarding at the same time. I took a break for about a year after graduation and beginning of 2021 I decided to learn the basics of web development again. I started with the [freeCodeCamp](https://www.freecodecamp.org/) curriculum and over the past few weeks, I've been learning HTML, CSS, JavaScript and React working with small projects on the side.   
-
-🌱 I'm currently attending the [Bay Valley Tech](https://www.bayvalleytech.com/about) coding program and looking forward to explore other front-end framework like Angular, TypeScript and NodeJs in the back-end.
-
-🛠️ I'm also reviewing [React - The complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) in Udemy by Maximilian Schwarzmuller. 
-
-💞️ If we have the same interest and goals, please don't hesistate to reach me and we can collaborate on some interesting projects and  
-&nbsp;&nbsp;&emsp;learn from each other.
-
-🖥️ Tools/Languages: GitHub / VS Code / HTML / CSS / Sass / JS / React  
-
-⏲️ My long-term goal is to become a full-stack developer and to learn more about new web technologies. But right now, my focus is to  
-&nbsp;&nbsp;&emsp;improve my front-end development skills and be able to provide the most efficient code there is. 
+🖥️ Tools/Languages: GitHub / VS Code / HTML / CSS / JS / React / Python
 
 🎮 In my leisure time, I enjoy playing video games, working out & learning about investing in stocks. Want to explore skiing/surfing.  
