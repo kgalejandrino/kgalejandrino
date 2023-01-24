@@ -18,10 +18,7 @@
 
 <h1 align="center">About Me</h1>
 
-I'm Kevin Alejandrino and I'm currently working as an Automation Engineer at Meta for the Portal Automation team. 
+I'm Kevin Alejandrino and I have about a year of experience working as an Automation Engineer. Having been able to work as a tester, my curiousity has grown of what it's like to be part of the development team. This year (2023), I wanted to pick up where I left off in learning about full-stack development. I'm currently learning [React - The complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) in Udemy by Maximilian Schwarzmuller. Also, I'm working on my first React project - https://kgalejandrino.github.io/react-ecommerce-webapp/#/.
 
-⏲️ On my free time, I'm learning [React - The complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) in Udemy by Maximilian Schwarzmuller. 
+🖥️ Tools/Tech Stack: GitHub / VS Code / HTML / CSS / JS / React / Python
 
-🖥️ Tools/Languages: GitHub / VS Code / HTML / CSS / JS / React / Python
-
-🎮 In my leisure time, I enjoy playing video games, working out & learning about investing in stocks. Want to explore skiing/surfing.  
